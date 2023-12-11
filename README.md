@@ -20,5 +20,3 @@
   <a href ="mailto:lucasdsferreira"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-ferreira-4a5591241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/Lucasdsf99/Lucasdsf99/blob/main/README.md?plain=1/output/github-contribution-grid-snake.svg)
